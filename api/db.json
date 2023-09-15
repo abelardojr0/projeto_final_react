@@ -1,0 +1,104 @@
+{
+  "mmorpg": [
+    {
+      "id": "skyrim",
+      "foto": "https://sm.ign.com/ign_br/game/t/the-elder-/the-elder-scrolls-v-skyrim_81xc.jpg",
+      "titulo": "Skyrim: The Elder Scrolls",
+      "subtitulo": "Um épico RPG de mundo aberto",
+      "descricao": "Embarque em uma jornada épica por um mundo de fantasia, cheio de dragões e magia. Explore terras vastas, complete missões e torne-se um herói lendário.",
+      "lançamento": "11 de novembro de 2011"
+    },
+    {
+      "id": "worldofwarcraft",
+      "foto": "https://m.media-amazon.com/images/I/81feWhChfIL.jpg",
+      "titulo": "World of Warcraft",
+      "subtitulo": "O reino de Azeroth espera por você",
+      "descricao": "Entre no mundo de Azeroth e escolha sua facção. Explore continentes épicos, lute contra monstros e participe de batalhas épicas em um dos MMORPGs mais populares de todos os tempos.",
+      "lançamento": "23 de novembro de 2004"
+    }
+  ],
+  "fps": [
+    {
+      "id": "halo",
+      "foto": "https://store-images.s-microsoft.com/image/apps.13367.13817186670444302.148c432a-9fce-4c7d-bf13-8a2bd3a527b3.f26b74f0-8b1f-41eb-a82f-06843ec33473",
+      "titulo": "Halo: The Master Chief Collection",
+      "subtitulo": "Um marco nos jogos de tiro em primeira pessoa",
+      "descricao": "Lute contra alienígenas em um futuro distante como o Master Chief neste clássico dos jogos de tiro. Uma história envolvente e multiplayer viciante.",
+      "lançamento": "15 de novembro de 2001"
+    },
+    {
+      "id": "doom",
+      "foto": "https://images.tcdn.com.br/img/img_prod/664029/doom_game_original_trilha_sonora_em_cd_5309_1_76d961935169f289052d84385f0acd3d_20220606145822.jpg",
+      "titulo": "Doom (2016)",
+      "subtitulo": "Mate demônios, sinta-se vivo",
+      "descricao": "Agarre sua espingarda e enfrente hordas de demônios no renascimento deste clássico dos jogos de tiro. Ação implacável e gráficos impressionantes esperam por você.",
+      "lançamento": "13 de maio de 2016"
+    }
+  ],
+  "moba": [
+    {
+      "id": "leagueoflegends",
+      "foto": "https://sm.ign.com/ign_br/game/l/league-of-/league-of-legends_d152.jpg",
+      "titulo": "League of Legends",
+      "subtitulo": "O jogo de estratégia em equipe",
+      "descricao": "Escolha entre uma variedade de campeões e batalhe em arenas 5v5. Coordene táticas com sua equipe para destruir a base inimiga e alcançar a vitória.",
+      "lançamento": "27 de outubro de 2009"
+    },
+    {
+      "id": "dota2",
+      "foto": "https://thefutureoftv.org/wp-content/uploads/2021/08/api_cdn-372.jpg",
+      "titulo": "Dota 2",
+      "subtitulo": "A batalha por Dotalândia continua",
+      "descricao": "Junte-se a equipes de cinco jogadores e lute pelo controle do campo de batalha em Dota 2. Habilidades estratégicas e coordenação são cruciais.",
+      "lançamento": "9 de julho de 2013"
+    }
+  ],
+  "skyrim": {
+    "id": "skyrim",
+    "foto": "https://sm.ign.com/ign_br/game/t/the-elder-/the-elder-scrolls-v-skyrim_81xc.jpg",
+    "titulo": "Skyrim: The Elder Scrolls",
+    "subtitulo": "Um épico RPG de mundo aberto",
+    "descricao": "Embarque em uma jornada épica por um mundo de fantasia, cheio de dragões e magia. Explore terras vastas, complete missões e torne-se um herói lendário.",
+    "lançamento": "11 de novembro de 2011"
+  },
+  "worldofwarcraft": {
+    "id": "worldofwarcraft",
+    "foto": "https://m.media-amazon.com/images/I/81feWhChfIL.jpg",
+    "titulo": "World of Warcraft",
+    "subtitulo": "O reino de Azeroth espera por você",
+    "descricao": "Entre no mundo de Azeroth e escolha sua facção. Explore continentes épicos, lute contra monstros e participe de batalhas épicas em um dos MMORPGs mais populares de todos os tempos.",
+    "lançamento": "23 de novembro de 2004"
+  },
+  "halo": {
+    "id": "halo",
+    "foto": "https://store-images.s-microsoft.com/image/apps.13367.13817186670444302.148c432a-9fce-4c7d-bf13-8a2bd3a527b3.f26b74f0-8b1f-41eb-a82f-06843ec33473",
+    "titulo": "Halo: The Master Chief Collection",
+    "subtitulo": "Um marco nos jogos de tiro em primeira pessoa",
+    "descricao": "Lute contra alienígenas em um futuro distante como o Master Chief neste clássico dos jogos de tiro. Uma história envolvente e multiplayer viciante.",
+    "lançamento": "15 de novembro de 2001"
+  },
+  "doom": {
+    "id": "doom",
+    "foto": "https://images.tcdn.com.br/img/img_prod/664029/doom_game_original_trilha_sonora_em_cd_5309_1_76d961935169f289052d84385f0acd3d_20220606145822.jpg",
+    "titulo": "Doom (2016)",
+    "subtitulo": "Mate demônios, sinta-se vivo",
+    "descricao": "Agarre sua espingarda e enfrente hordas de demônios no renascimento deste clássico dos jogos de tiro. Ação implacável e gráficos impressionantes esperam por você.",
+    "lançamento": "13 de maio de 2016"
+  },
+  "leagueoflegends": {
+    "id": "leagueoflegends",
+    "foto": "https://sm.ign.com/ign_br/game/l/league-of-/league-of-legends_d152.jpg",
+    "titulo": "League of Legends",
+    "subtitulo": "O jogo de estratégia em equipe",
+    "descricao": "Escolha entre uma variedade de campeões e batalhe em arenas 5v5. Coordene táticas com sua equipe para destruir a base inimiga e alcançar a vitória.",
+    "lançamento": "27 de outubro de 2009"
+  },
+  "dota2": {
+    "id": "dota2",
+    "foto": "https://thefutureoftv.org/wp-content/uploads/2021/08/api_cdn-372.jpg",
+    "titulo": "Dota 2",
+    "subtitulo": "A batalha por Dotalândia continua",
+    "descricao": "Junte-se a equipes de cinco jogadores e lute pelo controle do campo de batalha em Dota 2. Habilidades estratégicas e coordenação são cruciais.",
+    "lançamento": "9 de julho de 2013"
+  }
+}
